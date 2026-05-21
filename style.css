@@ -1,0 +1,26 @@
+body {
+    font-family: "Source Sans 3", sans-serif;
+    background-color: #dfeaf4;
+}
+
+svg {
+    background-color: white;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    fill: #16324f;
+}
+
+.label {
+    font-size: 14px;
+    fill: #16324f;
+    text-anchor: middle;
+}
+
+.umbrella {
+    stroke: #16324f;
+    stroke-width: 2px;
+    opacity: 0.85;
+}
